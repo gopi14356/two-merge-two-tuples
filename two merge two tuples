@@ -1,0 +1,4 @@
+A= ("gopi",2,"pk")
+B= (1, "Hi", 3)
+c=A+B
+print(c)
